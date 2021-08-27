@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# Workshops" 
-=======
 # DataWorkshop challenge_1
 ### 11-15.02.2019
 Challenge for beginners with Machine Learning by Vladimir Alekseichenko
@@ -11,4 +8,4 @@ Challenge for beginners with Machine Learning by Vladimir Alekseichenko
 * day 3 - setup Google Cloud VM
 * day 4 - introduction to ML and the first ML model
 * day 5 - second ML model
->>>>>>> DataWorkshop-challenge-1/master
+
