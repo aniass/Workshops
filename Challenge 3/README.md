@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # DataWorkshop challenge 3
 ## 13-17.05.2019
 Challenge for beginners with Autonomous cars by Karol Majek and Vladimir Alekseichenko 
@@ -12,4 +9,4 @@ Challenge for beginners with Autonomous cars by Karol Majek and Vladimir Aleksei
 * day 3 - generating data by driving the simulator
 * day 4 - data augumentation using https://github.com/aleju/imgaug with Google Colab (GPU)
 * day 5 - training CNN with Google Colab (GPU) and autonomous driving using the CNN model
->>>>>>> DataWorkshop-challenge-3/master
+
